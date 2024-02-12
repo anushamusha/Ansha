@@ -1,7 +1,7 @@
 # Ansha
 Hello, This is my profile
 <h1 align="center">Hi 👋, I'm Anusha M</h1>
-<h3 align="center">A passionate who loves to work from India</h3>
+<h3 align="center">Welcome to my GitHub repository! Here you will find a comprehensive overview of my skills, projects, and experience tailored towards securing a position in the field of software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansha&label=Profile%20views&color=0e75b6&style=flat" alt="ansha" /> </p>
 
