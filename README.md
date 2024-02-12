@@ -1,6 +1,6 @@
 # Ansha
 Hello, This is my profile
-<h1 align="left">Hi, 👋 I'm Anusha M</h1>
+<h1 align="center">Hi, 👋 I'm Anusha M</h1>
 
 ###
 
